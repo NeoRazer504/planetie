@@ -1,6 +1,6 @@
-﻿Designator,Footprint,Quantity,Value,LCSC Part #
-J1,Display_128x64_096_I2C,1,Conn_01x04_Pin,
-J2,MPU6050_Module,1,Conn_01x08_Pin,
-"SW1, SW2",SW_Cherry_MX_1.00u_PCB,2,SW_Push,
-U1,XIAO-ESP32C3-DIP,1,XIAO-ESP32-C3-SMD,
-U2,Aosong_DHT11_5.5x12.0_P2.54mm,1,DHT11,
+﻿Designator,Footprint,Quantity,Value,Links
+J1,Display_128x64_096_I2C,1,Conn_01x04_Pin, https://www.amazon.com/dp/B0GBVWBWCR
+J2,MPU6050_Module,1,Conn_01x08_Pin, https://www.digikey.com/en/products/detail/universal-solder-electronics-ltd/26098/26606388
+"SW1, SW2",SW_Cherry_MX_1.00u_PCB,2,SW_Push, https://www.digikey.com/en/products/detail/cherry-americas-llc/MX2A-G1NB/21738375?gclsrc=aw.ds&gad_source=1&gad_campaignid=20243136172&gbraid=0AAAAADrbLlgiTYEO2FHqFMzUVDUShdG_i&gclid=CjwKCAjwotzWBhBFEiwA1JhPoPdSe2Pv8rQpLCuqJMIaWAEuBdwofFlwTBRSgUrY_HA7ShEw4U4XLhoCopkQAvD_BwE
+U1,XIAO-ESP32C3-DIP,1,XIAO-ESP32-C3-SMD, https://www.digikey.com/en/products/detail/seeed-technology-co-ltd/113991054/16652880
+U2,Aosong_DHT11_5.5x12.0_P2.54mm,1,DHT11, https://www.digikey.com/en/products/detail/olimex-ltd/SNS-DHT11/21662551
